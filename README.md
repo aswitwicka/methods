@@ -7,7 +7,7 @@
 
 ## RNA-seq
 * Recommended RNA-seq pipeline: http://bit.ly/3s9AUkG
-* *RNA-seq workflow: gene-level exploratory analysis and differential expression:* http://bit.ly/38o2eE1
+* **RNA-seq workflow: gene-level exploratory analysis and differential expression:** http://bit.ly/38o2eE1
 * Differential gene expression (DGE) analysis, training module: http://bit.ly/3hLyljM
 * DGE normalisation methods: http://bit.ly/3rXDWZ9
 * RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR: http://bit.ly/2LqJbQk
