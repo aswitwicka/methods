@@ -23,3 +23,7 @@
 * Command Line Tools for Genomic Data Science: https://www.coursera.org/learn/genomic-tools#syllabus
 * Bioconductor for Genomic Data Science: https://www.coursera.org/learn/bioconductor#syllabus
 * Teaching R online with RStudio Cloud: http://bit.ly/38hwekE
+
+## Bees 
+* Morphological characterization and staging of bumble bee pupae: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6302898/pdf/peerj-06-6089.pdf
+* Bumblebee development: https://www.bumblebee.org/lifecycle.htm 
