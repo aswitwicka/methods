@@ -27,3 +27,4 @@
 ## Bees 
 * Morphological characterization and staging of bumble bee pupae: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6302898/pdf/peerj-06-6089.pdf
 * Bumblebee development: https://www.bumblebee.org/lifecycle.htm 
+* B. terrestris queen making an egg cell: https://www.youtube.com/watch?v=QX-3RMH0nFQ 
