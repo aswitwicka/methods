@@ -12,6 +12,7 @@
 * DGE normalisation methods: http://bit.ly/3rXDWZ9
 * RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR: http://bit.ly/2LqJbQk
 * Biomedical Data Science: different analyses: http://genomicsclass.github.io/book/
+* **Inferring differential exon usage in RNA-Seq data with the DEXSeq package:** https://bioconductor.org/packages/devel/bioc/vignettes/DEXSeq/inst/doc/DEXSeq.html
 
 ## Tools: 
 * Using MultiQC: https://multiqc.info/docs/
