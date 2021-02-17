@@ -13,6 +13,9 @@
 * RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR: http://bit.ly/2LqJbQk
 * Biomedical Data Science: different analyses: http://genomicsclass.github.io/book/
 * **Inferring differential exon usage in RNA-Seq data with the DEXSeq package:** https://bioconductor.org/packages/devel/bioc/vignettes/DEXSeq/inst/doc/DEXSeq.html
+* tidybulk: an R tidy framework for modular transcriptomic data analysis: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02233-7#Sec11
+* MCMSeq: Bayesian hierarchical modeling of clustered and repeated measures RNA sequencing experiments: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03715-y
+* Biological classification with RNA-seq data: Can alternatively spliced transcript expression enhance machine learning classifiers?: https://rnajournal.cshlp.org/content/24/9/1119
 
 ## Tools: 
 * Using MultiQC: https://multiqc.info/docs/
@@ -29,3 +32,6 @@
 * Morphological characterization and staging of bumble bee pupae: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6302898/pdf/peerj-06-6089.pdf
 * Bumblebee development: https://www.bumblebee.org/lifecycle.htm 
 * B. terrestris queen making an egg cell: https://www.youtube.com/watch?v=QX-3RMH0nFQ 
+
+## Lab
+* TM3’seq: A Tagmentation-Mediated 3’ Sequencing Approach for Improving Scalability of RNAseq Experiments: https://www.g3journal.org/content/10/1/143
