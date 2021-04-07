@@ -6,6 +6,7 @@
 * Bayesian Statistics explained to Beginners in Simple English: http://bit.ly/3bktnJT
 
 ## RNA-seq
+* RNA-Seq: a revolutionary tool for transcriptomics: https://www.nature.com/articles/nrg2484
 * Recommended RNA-seq pipeline: http://bit.ly/3s9AUkG
 * **RNA-seq workflow: gene-level exploratory analysis and differential expression:** http://bit.ly/38o2eE1
 * Differential gene expression (DGE) analysis, training module: http://bit.ly/3hLyljM
