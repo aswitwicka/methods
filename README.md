@@ -18,6 +18,7 @@
 * MCMSeq: Bayesian hierarchical modeling of clustered and repeated measures RNA sequencing experiments: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03715-y
 * Biological classification with RNA-seq data: Can alternatively spliced transcript expression enhance machine learning classifiers?: https://rnajournal.cshlp.org/content/24/9/1119
 * Misuse of RPKM or TPM normalization when comparing across samples and sequencing protocols: https://rnajournal.cshlp.org/content/early/2020/04/13/rna.074922.120
+* Single cell: https://www.singlecellcourse.org/processing-raw-scrna-seq-sequencing-data-from-reads-to-a-count-matrix.html 
 
 ## Tools: 
 * Using MultiQC: https://multiqc.info/docs/
